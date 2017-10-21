@@ -26,6 +26,7 @@ Jaman sekarang banyak developer pindah dari subversion ke git karena reabilitas 
 
 ## Perintah dasar git
 
+- ```git init``` membuat project git di local
 - ```git add file.extension``` atau ```git add .``` untuk melakukan indexing di sistem git
 - ```git commit -m "message info"``` untuk menyimpan file secara permanen
 - ```git reset stageId``` untuk mereset indexing sebelum commit
